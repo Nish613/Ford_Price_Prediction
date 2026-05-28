@@ -1,4 +1,3 @@
-# Ford_Price_Prediction
 # Ford Car Price Prediction
 
 ## Objective
