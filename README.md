@@ -2,7 +2,7 @@
 
 ## Objective
 
-Predict Ford car prices using Machine Learning.
+Predict Ford car prices using Linear Regression.
 
 ## Dataset
 
